@@ -1,0 +1,14 @@
+# Node
+node_modules/
+
+# Env
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Models / data
+*.h5
+*.pt
+data/
